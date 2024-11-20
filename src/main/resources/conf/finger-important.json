@@ -9,8 +9,8 @@
         "user",
         "Content-Type: application/json"
       ],
-      "type": "敏感内容",
-      "describe": "账号, 密码, 邮箱",
+      "type": "Sensitive Content",
+      "describe": "Account, Password, Email",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -22,8 +22,8 @@
         "gmsfhm",
         "Content-Type: application/json"
       ],
-      "type": "敏感内容",
-      "describe": "身份号",
+      "type": "Sensitive Content",
+      "describe": "Identity number",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -35,8 +35,8 @@
         "cjrsfzh",
         "Content-Type: application/json"
       ],
-      "type": "敏感内容",
-      "describe": "身份号",
+      "type": "Sensitive Content",
+      "describe": "Identity number",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -51,8 +51,8 @@
         "mailAccount",
         "Content-Type: application/json"
       ],
-      "type": "敏感内容",
-      "describe": "手机, 用户名, 邮件",
+      "type": "Sensitive Content",
+      "describe": "Mobile, Username, Email",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -64,8 +64,8 @@
         "newPws",
         "userName"
       ],
-      "type": "敏感内容",
-      "describe": "修改密码",
+      "type": "Sensitive Content",
+      "describe": "Change password",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -77,8 +77,8 @@
         "newpassword",
         "actionid"
       ],
-      "type": "敏感内容",
-      "describe": "修改密码",
+      "type": "Sensitive Content",
+      "describe": "Change password",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -90,8 +90,8 @@
         "username",
         "newpassword"
       ],
-      "type": "敏感内容",
-      "describe": "修改密码",
+      "type": "Sensitive Content",
+      "describe": "Change password",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -105,8 +105,8 @@
         "userid",
         "Content-Type: application/json"
       ],
-      "type": "敏感内容",
-      "describe": "账号, 密码",
+      "type": "Sensitive Content",
+      "describe": "Account, Password",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -121,8 +121,8 @@
         "phone",
         "Content-Type: application/json"
       ],
-      "type": "敏感内容",
-      "describe": "账号, 邮箱， 收集",
+      "type": "Sensitive Content",
+      "describe": "Account, Email, Collection",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -137,8 +137,8 @@
         "Type\"",
         "Content-Type: application/json"
       ],
-      "type": "敏感内容",
-      "describe": "账号",
+      "type": "Sensitive Content",
+      "describe": "Account",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -152,8 +152,8 @@
         "id",
         "status"
       ],
-      "type": "敏感内容",
-      "describe": "账号, 手机",
+      "type": "Sensitive Content",
+      "describe": "Account, Mobile Phone",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -169,8 +169,8 @@
         "name",
         "Content-Type: application/json"
       ],
-      "type": "敏感内容",
-      "describe": "手机, 用户名, 邮件, 密码",
+      "type": "Sensitive Content",
+      "describe": "Mobile, Username, Email, Password",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -183,8 +183,8 @@
         "phoneNo",
         "deptName"
       ],
-      "type": "敏感内容",
-      "describe": "手机, 用户名",
+      "type": "Sensitive Content",
+      "describe": "Mobile phone, Username",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -197,8 +197,8 @@
         "total",
         "rows"
       ],
-      "type": "敏感内容",
-      "describe": "身份证",
+      "type": "Sensitive Content",
+      "describe": "ID card",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -211,8 +211,8 @@
         "idCard",
         "partment"
       ],
-      "type": "敏感内容",
-      "describe": "身份证",
+      "type": "Sensitive Content",
+      "describe": "ID card",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -227,8 +227,8 @@
         "status",
         "address"
       ],
-      "type": "敏感内容",
-      "describe": "身份证",
+      "type": "Sensitive Content",
+      "describe": "ID card",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -240,7 +240,7 @@
         "ALI_ACCESS_ID",
         "ALI_ACCESS_KEY"
       ],
-      "type": "敏感内容",
+      "type": "Sensitive Content",
       "describe": "云KEY",
       "isImportant": true,
       "isOpen": true,
@@ -253,7 +253,7 @@
         "ACCESSID",
         "ACCESSKEY"
       ],
-      "type": "敏感内容",
+      "type": "Sensitive Content",
       "describe": "云KEY",
       "isImportant": true,
       "isOpen": true,
@@ -266,7 +266,7 @@
         "AccessKey ID",
         "AccessKey Secret"
       ],
-      "type": "敏感内容",
+      "type": "Sensitive Content",
       "describe": "云KEY",
       "isImportant": true,
       "isOpen": true,
@@ -279,7 +279,7 @@
         "accessKeyId",
         "accessKeySecret"
       ],
-      "type": "敏感内容",
+      "type": "Sensitive Content",
       "describe": "云KEY",
       "isImportant": true,
       "isOpen": true,
@@ -292,7 +292,7 @@
         "ACCESS_ID",
         "ACCESS_KEY"
       ],
-      "type": "敏感内容",
+      "type": "Sensitive Content",
       "describe": "云KEY",
       "isImportant": true,
       "isOpen": true,
@@ -305,7 +305,7 @@
         "SSOusername",
         "SSOpassword"
       ],
-      "type": "敏感内容",
+      "type": "Sensitive Content",
       "describe": "云KEY",
       "isImportant": true,
       "isOpen": true,
@@ -317,7 +317,7 @@
       "keyword": [
         "oss://"
       ],
-      "type": "敏感内容",
+      "type": "Sensitive Content",
       "describe": "云KEY",
       "isImportant": true,
       "isOpen": true,
@@ -332,7 +332,7 @@
         "UC_KEY",
         "UC_API"
       ],
-      "type": "敏感内容",
+      "type": "Sensitive Content",
       "describe": "云KEY",
       "isImportant": true,
       "isOpen": true,
@@ -344,8 +344,8 @@
       "keyword": [
         "jdbc:(mysql|h2|oracle|sqlserver|jtds:sqlserver):"
       ],
-      "type": "敏感内容",
-      "describe": "JDBC泄漏",
+      "type": "Sensitive Content",
+      "describe": "JDBC leak",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -356,8 +356,8 @@
       "keyword": [
         "System.Data.SqlClient"
       ],
-      "type": "敏感内容",
-      "describe": "JDBC泄漏",
+      "type": "Sensitive Content",
+      "describe": "JDBC leak",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -368,8 +368,8 @@
       "keyword": [
         "Data.PassportContext"
       ],
-      "type": "敏感内容",
-      "describe": "JDBC泄漏",
+      "type": "Sensitive Content",
+      "describe": "JDBC leak",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -382,8 +382,8 @@
         "mysql.password",
         "mysql.url"
       ],
-      "type": "敏感内容",
-      "describe": "JDBC泄漏",
+      "type": "Sensitive Content",
+      "describe": "JDBC leak",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -395,8 +395,8 @@
         "jdbc.username",
         "jdbc.password"
       ],
-      "type": "敏感内容",
-      "describe": "JDBC泄漏",
+      "type": "Sensitive Content",
+      "describe": "JDBC leak",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -408,8 +408,8 @@
         "mssql.jdbc",
         "mssql.user"
       ],
-      "type": "敏感内容",
-      "describe": "JDBC泄漏",
+      "type": "Sensitive Content",
+      "describe": "JDBC leak",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -420,8 +420,8 @@
       "keyword": [
         "com.microsoft.sqlserver.jdbc.SQLServerDriver"
       ],
-      "type": "敏感内容",
-      "describe": "JDBC泄漏",
+      "type": "Sensitive Content",
+      "describe": "JDBC leak",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -433,8 +433,8 @@
         "EMAIL_HOST_USER",
         "EMAIL_HOST_PASSWORD"
       ],
-      "type": "敏感内容",
-      "describe": "邮箱凭证泄漏",
+      "type": "Sensitive Content",
+      "describe": "Email credentials leaked",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -446,8 +446,8 @@
         "mail.username",
         "mail.password"
       ],
-      "type": "敏感内容",
-      "describe": "邮箱凭证泄漏",
+      "type": "Sensitive Content",
+      "describe": "Email credentials leaked",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -459,8 +459,8 @@
         "sender.username",
         "sender.password"
       ],
-      "type": "敏感内容",
-      "describe": "邮箱凭证泄漏",
+      "type": "Sensitive Content",
+      "describe": "Email credentials leaked",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -472,8 +472,8 @@
         "mailUserPwd",
         "mailUserName"
       ],
-      "type": "敏感内容",
-      "describe": "邮箱凭证泄漏",
+      "type": "Sensitive Content",
+      "describe": "Email credentials leaked",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -485,8 +485,8 @@
         "mail_user",
         "mail_pass"
       ],
-      "type": "敏感内容",
-      "describe": "邮箱凭证泄漏",
+      "type": "Sensitive Content",
+      "describe": "Email credentials leaked",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -498,8 +498,8 @@
         "EMAIL_PSWD",
         "EMAIL_USER"
       ],
-      "type": "敏感内容",
-      "describe": "邮箱凭证泄漏",
+      "type": "Sensitive Content",
+      "describe": "Email credentials leaked",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -511,8 +511,8 @@
         "EMAIL_LOGIN_NAME",
         "EMAIL_LOGIN_PASSWD"
       ],
-      "type": "敏感内容",
-      "describe": "邮箱凭证泄漏",
+      "type": "Sensitive Content",
+      "describe": "Email credentials leaked",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -524,8 +524,8 @@
         "email_username",
         "email_password"
       ],
-      "type": "敏感内容",
-      "describe": "邮箱凭证泄漏",
+      "type": "Sensitive Content",
+      "describe": "Email credentials leaked",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -537,8 +537,8 @@
         "smtp_username",
         "smtp_password"
       ],
-      "type": "敏感内容",
-      "describe": "邮箱凭证泄漏",
+      "type": "Sensitive Content",
+      "describe": "Email credentials leaked",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -550,8 +550,8 @@
         "mailuser",
         "mailPassword"
       ],
-      "type": "敏感内容",
-      "describe": "邮箱凭证泄漏",
+      "type": "Sensitive Content",
+      "describe": "Email credentials leaked",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -563,8 +563,8 @@
         "mailServerUsername",
         "mailServerPassword"
       ],
-      "type": "敏感内容",
-      "describe": "邮箱凭证泄漏",
+      "type": "Sensitive Content",
+      "describe": "Email credentials leaked",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -576,8 +576,8 @@
         "WebMail.UserName",
         "WebMail.Password"
       ],
-      "type": "敏感内容",
-      "describe": "邮箱凭证泄漏",
+      "type": "Sensitive Content",
+      "describe": "Email credentials leaked",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -589,8 +589,8 @@
         "ftpUsername",
         "ftpPassword"
       ],
-      "type": "敏感内容",
-      "describe": "FTP泄漏",
+      "type": "Sensitive Content",
+      "describe": "FTP leak",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -603,8 +603,8 @@
         "FTP_ADDR",
         "FTP_PASS"
       ],
-      "type": "敏感内容",
-      "describe": "FTP泄漏",
+      "type": "Sensitive Content",
+      "describe": "FTP leak",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -615,8 +615,8 @@
       "keyword": [
         "ssh://"
       ],
-      "type": "敏感内容",
-      "describe": "SSH泄漏",
+      "type": "Sensitive Content",
+      "describe": "SSH leak",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -628,7 +628,7 @@
         "access_key_id",
         "secret_access_key"
       ],
-      "type": "敏感内容",
+      "type": "Sensitive Content",
       "describe": "云KEY",
       "isImportant": true,
       "isOpen": true,
@@ -642,8 +642,8 @@
         "sfzh",
         "Content-Type: application/json"
       ],
-      "type": "敏感内容",
-      "describe": "身份证",
+      "type": "Sensitive Content",
+      "describe": "ID card",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -656,8 +656,8 @@
         "mobile\"",
         "Content-Type: application/json"
       ],
-      "type": "敏感内容",
-      "describe": "手机号码",
+      "type": "Sensitive Content",
+      "describe": "Mobile phone number",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -669,7 +669,7 @@
         "accessKeyId",
         "accessSecret"
       ],
-      "type": "敏感内容",
+      "type": "Sensitive Content",
       "describe": "云KEY",
       "isImportant": true,
       "isOpen": true,
@@ -681,7 +681,7 @@
       "keyword": [
         "\"accessKeyId\""
       ],
-      "type": "敏感内容",
+      "type": "Sensitive Content",
       "describe": "云KEY",
       "isImportant": true,
       "isOpen": true,
@@ -694,7 +694,7 @@
         "accessKeyId",
         "secretAccessKey"
       ],
-      "type": "敏感内容",
+      "type": "Sensitive Content",
       "describe": "云KEY",
       "isImportant": true,
       "isOpen": true,
@@ -708,8 +708,8 @@
         "HOST:",
         "NAME:"
       ],
-      "type": "敏感内容",
-      "describe": "账号, 密码, IP",
+      "type": "Sensitive Content",
+      "describe": "Account, Password, IP",
       "isImportant": false,
       "isOpen": true,
       "accuracy": "high"
@@ -718,11 +718,11 @@
       "match": "keyword",
       "location": "body",
       "keyword": [
-        "管理员密码",
-        "管理员账号"
+        "Administrator Password",
+        "Administrator Account"
       ],
-      "type": "敏感内容",
-      "describe": "管理员账号、管理员密码",
+      "type": "Sensitive Content",
+      "describe": "Administrator account, administrator password",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -734,8 +734,8 @@
         "'admin_pwd'",
         "'admin_user'"
       ],
-      "type": "敏感内容",
-      "describe": "管理员账号、管理员密码",
+      "type": "Sensitive Content",
+      "describe": "Administrator account, administrator password",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -747,8 +747,8 @@
         "<pwd>",
         "<admin_user>"
       ],
-      "type": "敏感内容",
-      "describe": "管理员账号、管理员密码",
+      "type": "Sensitive Content",
+      "describe": "Administrator account, administrator password",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -760,8 +760,8 @@
         "\"admin_pwd\"",
         "\"admin_user\""
       ],
-      "type": "敏感内容",
-      "describe": "管理员账号、管理员密码",
+      "type": "Sensitive Content",
+      "describe": "Administrator account, administrator password",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -770,10 +770,10 @@
       "match": "regular",
       "location": "body",
       "keyword": [
-        "(initPassword\\s*[:=]\\s*\"?|\"initPassword\"\\s*:\\s*\"?|\"初始密码\"\\s*:\\s*\"?)[\"]?[^\"\\s]+[\"]?|\\b初始密码是\\s+[^\"\\s]+"
+        "(initPassword\\s*[:=]\\s*\"?|\"initPassword\"\\s*:\\s*\"?|\"initial password\"\\s*:\\s*\"?)[\"]?[^\"\\s]+[\"]?|\\binitial password is\\s+[^\"\\s]+"
       ],
-      "type": "敏感内容",
-      "describe": "初始密码",
+      "type": "Sensitive Content",
+      "describe": "Initial password",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "medium"
@@ -787,8 +787,8 @@
         "database",
         "user"
       ],
-      "type": "敏感内容",
-      "describe": "账号, 密码, IP",
+      "type": "Sensitive Content",
+      "describe": "Account, Password, IP",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -801,8 +801,8 @@
         "user",
         "__construct"
       ],
-      "type": "敏感内容",
-      "describe": "账号, 密码, IP",
+      "type": "Sensitive Content",
+      "describe": "Account, Password, IP",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -813,7 +813,7 @@
       "keyword": [
         "/graphiql"
       ],
-      "type": "敏感内容",
+      "type": "Sensitive Content",
       "describe": "GraphQL API",
       "isImportant": true,
       "isOpen": true,
@@ -825,7 +825,7 @@
       "keyword": [
         "__graphiql"
       ],
-      "type": "敏感内容",
+      "type": "Sensitive Content",
       "describe": "GraphQL API",
       "isImportant": true,
       "isOpen": true,
@@ -838,8 +838,8 @@
         "user=='",
         "password=='"
       ],
-      "type": "敏感内容",
-      "describe": "账号, 密码",
+      "type": "Sensitive Content",
+      "describe": "Account, Password",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -852,8 +852,8 @@
         "password =>",
         "info"
       ],
-      "type": "敏感内容",
-      "describe": "账号, 密码",
+      "type": "Sensitive Content",
+      "describe": "Account, Password",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -862,12 +862,12 @@
       "match": "keyword",
       "location": "body",
       "keyword": [
-        "VPN服务器地址",
-        "用户名",
-        "密码"
+        "VPN Server Address",
+        "username",
+        "password"
       ],
-      "type": "敏感内容",
-      "describe": "账号, 密码, IP",
+      "type": "Sensitive Content",
+      "describe": "Account, Password, IP",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -880,8 +880,8 @@
         "password",
         "jdbc:"
       ],
-      "type": "敏感内容",
-      "describe": "账号, 密码, IP",
+      "type": "Sensitive Content",
+      "describe": "Account, Password, IP",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -894,8 +894,8 @@
         "String password",
         "="
       ],
-      "type": "敏感内容",
-      "describe": "账号, 密码, IP",
+      "type": "Sensitive Content",
+      "describe": "Account, Password, IP",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -909,8 +909,8 @@
         "username",
         "password"
       ],
-      "type": "敏感内容",
-      "describe": "账号, 密码, IP",
+      "type": "Sensitive Content",
+      "describe": "Account, Password, IP",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -919,13 +919,13 @@
       "match": "keyword",
       "location": "body",
       "keyword": [
-        "身份证号码",
-        "姓名",
-        "公司",
+        "ID Number",
+        "Name",
+        "company",
         "Content-Type: application/json"
       ],
-      "type": "敏感内容",
-      "describe": "账号, 身份证",
+      "type": "Sensitive Content",
+      "describe": "Account, ID card",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -937,8 +937,8 @@
         "secret_key",
         "address"
       ],
-      "type": "敏感内容",
-      "describe": "账号, 密码",
+      "type": "Sensitive Content",
+      "describe": "Account, Password",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -950,8 +950,8 @@
         "secret_key",
         "api_key"
       ],
-      "type": "敏感内容",
-      "describe": "账号, 密码",
+      "type": "Sensitive Content",
+      "describe": "Account, Password",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -962,7 +962,7 @@
       "keyword": [
         "(=deleteMe|rememberMe=)"
       ],
-      "type": "敏感内容",
+      "type": "Sensitive Content",
       "describe": "shiro",
       "isImportant": true,
       "isOpen": true,
@@ -972,9 +972,9 @@
       "match": "regular",
       "location": "body",
       "keyword": [
-        "(eyJ[A-Za-z0-9_-]{10,}\\.[A-Za-z0-9._-]{10,}|eyJ[A-Za-z0-9_\\/+-]{10,}\\.[A-Za-z0-9._\\/+-]{10,})"
+        "(eyJ[A-Za-z0-9_-]{10,}\\.[A-Za-z0-9._-]{10,}|eyJ[A-Za-z0-9_\\/+ -]{10,}\\.[A-Za-z0-9._\\/+-]{10,})"
       ],
-      "type": "敏感内容",
+      "type": "Sensitive Content",
       "describe": "JSON Web Token",
       "isImportant": false,
       "isOpen": true,
@@ -986,7 +986,7 @@
       "keyword": [
         "((swagger-ui.html)|(\\\"swagger\\\":)|(Swagger UI)|(swaggerUi)|(swaggerVersion))"
       ],
-      "type": "敏感内容",
+      "type": "Sensitive Content",
       "describe": "Swagger UI",
       "isImportant": true,
       "isOpen": true,
@@ -998,7 +998,7 @@
       "keyword": [
         "(ueditor\\.(config|all)\\.js)"
       ],
-      "type": "敏感内容",
+      "type": "Sensitive Content",
       "describe": "Ueditor",
       "isImportant": true,
       "isOpen": true,
@@ -1010,7 +1010,7 @@
       "keyword": [
         "(Druid Stat Index)"
       ],
-      "type": "敏感内容",
+      "type": "Sensitive Content",
       "describe": "Druid",
       "isImportant": true,
       "isOpen": true,
@@ -1022,8 +1022,8 @@
       "keyword": [
         "(11|12|13|14|15|21|22|23|31|32|33|34|35|36|37|41|42|43|44|45|46|50|51|52|53|54|61|62|63|64|65|71|81|82)\\d{4}(19|20)\\d{2}((0[1-9])|(1[0-2]))((0[1-9])|([12]\\d)|(3[01]))\\d{3}([0-9Xx])"
       ],
-      "type": "敏感内容",
-      "describe": "身份证",
+      "type": "Sensitive Content",
+      "describe": "ID card",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -1034,7 +1034,7 @@
       "keyword": [
         "(((access)(|-|_)(key)(|-|_)(id|secret))|(LTAI[a-z0-9]{12,20}))"
       ],
-      "type": "敏感内容",
+      "type": "Sensitive Content",
       "describe": "Cloud Key",
       "isImportant": true,
       "isOpen": true,
@@ -1044,9 +1044,9 @@
       "match": "regular",
       "location": "body",
       "keyword": [
-        "'[^\\w](([a-zA-Z]:\\\\(?:\\w+\\\\?)*)|([a-zA-Z]:\\\\(?:\\w+\\\\)*\\w+\\.\\w+))'"
+        "'[^\\w](([a-zA-Z]:\\\\(?:\\w+\\\\?)*)|([a-zA-Z]:\\\\ (?:\\w+\\\\)*\\w+\\.\\w+))'"
       ],
-      "type": "敏感内容",
+      "type": "Sensitive Content",
       "describe": "Windows File/Dir Path",
       "isImportant": true,
       "isOpen": true,
@@ -1058,7 +1058,7 @@
       "keyword": [
         "((|'|\")(|[\\w]{1,10})([p](ass|wd|asswd|assword))(|[\\w]{1,10})(|'|\")(:|=)(|)('|\")(.*?)('|\")(|,))"
       ],
-      "type": "敏感内容",
+      "type": "Sensitive Content",
       "describe": "Password Field",
       "isImportant": true,
       "isOpen": true,
@@ -1070,7 +1070,7 @@
       "keyword": [
         "(jdbc:[a-z:]+://[a-z0-9\\.\\-_:;=/@?,&]+)"
       ],
-      "type": "敏感内容",
+      "type": "Sensitive Content",
       "describe": "JDBC Connection",
       "isImportant": true,
       "isOpen": true,
@@ -1083,7 +1083,7 @@
         "AppSecret",
         "AppID"
       ],
-      "type": "敏感内容",
+      "type": "Sensitive Content",
       "describe": "AppSecret、AppID",
       "isImportant": true,
       "isOpen": true,
@@ -1096,7 +1096,7 @@
         "AppSecret",
         "AppKey"
       ],
-      "type": "敏感内容",
+      "type": "Sensitive Content",
       "describe": "AppSecret、AppKey",
       "isImportant": true,
       "isOpen": true,
@@ -1109,7 +1109,7 @@
         "AppSecret",
         "AppKey"
       ],
-      "type": "敏感内容",
+      "type": "Sensitive Content",
       "describe": "AppSecret、AppKey",
       "isImportant": true,
       "isOpen": true,
@@ -1122,8 +1122,8 @@
         "Corpid",
         "Corpsecret"
       ],
-      "type": "敏感内容",
-      "describe": "企业微信Corpid、Corpsecret",
+      "type": "Sensitive Content",
+      "describe": "Corpid、Corpsecret",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -1135,8 +1135,8 @@
         "App_Id",
         "App_Secret"
       ],
-      "type": "敏感内容",
-      "describe": "飞书App_Id、App_Secret",
+      "type": "Sensitive Content",
+      "describe": "Feishu App_Id, App_Secret",
       "isImportant": true,
       "isOpen": true,
       "accuracy": "high"
@@ -1147,7 +1147,7 @@
       "keyword": [
         "(javax\\.faces\\.ViewState)"
       ],
-      "type": "有价值信息",
+      "type": "Valuable information",
       "describe": "Java Deserialization",
       "isImportant": false,
       "isOpen": true,
@@ -1159,7 +1159,7 @@
       "keyword": [
         "((basic [a-z0-9=:_\\+\\/-]{5,100})|(bearer [a-z0-9_.=:_\\+\\/-]{5,100}))"
       ],
-      "type": "有价值信息",
+      "type": "Valuable information",
       "describe": "Authorization Header",
       "isImportant": false,
       "isOpen": true,
@@ -1171,7 +1171,7 @@
       "keyword": [
         "(type\\=\\\"file\\\")"
       ],
-      "type": "有价值信息",
+      "type": "Valuable information",
       "describe": "Upload Form",
       "isImportant": false,
       "isOpen": true,
@@ -1183,7 +1183,7 @@
       "keyword": [
         "(([a-z0-9]+[_|\\.])*[a-z0-9]+@([a-z0-9]+[-|_|\\.])*[a-z0-9]+\\.((?!js|css|jpg|jpeg|png|ico)[a-z]{2,5}))"
       ],
-      "type": "有价值信息",
+      "type": "Valuable information",
       "describe": "Email",
       "isImportant": false,
       "isOpen": true,
@@ -1195,7 +1195,7 @@
       "keyword": [
         "[^\\w]((?:(?:\\+|00)86)?1(?:(?:3[\\d])|(?:4[5-79])|(?:5[0-35-9])|(?:6[5-7])|(?:7[0-8])|(?:8[\\d])|(?:9[189]))\\d{8})[^\\w]"
       ],
-      "type": "有价值信息",
+      "type": "Valuable information",
       "describe": "Chinese Mobile Number",
       "isImportant": false,
       "isOpen": true,
@@ -1207,7 +1207,7 @@
       "keyword": [
         "[^0-9]((127\\.0\\.0\\.1)|(10\\.\\d{1,3}\\.\\d{1,3}\\.\\d{1,3})|(172\\.((1[6-9])|(2\\d)|(3[01]))\\.\\d{1,3}\\.\\d{1,3})|(192\\.168\\.\\d{1,3}\\.\\d{1,3}))"
       ],
-      "type": "有价值信息",
+      "type": "Valuable information",
       "describe": "Internal IP Address",
       "isImportant": false,
       "isOpen": true,
@@ -1217,9 +1217,9 @@
       "match": "regular",
       "location": "body",
       "keyword": [
-        "(^([a-fA-F0-9]{2}(:[a-fA-F0-9]{2}){5})|[^a-zA-Z0-9]([a-fA-F0-9]{2}(:[a-fA-F0-9]{2}){5}))"
+        "(^([a-fA-F0-9]{2}(:[a-fA-F0-9]{2}){5})|[^a-zA-Z0-9]([a- fA-F0-9]{2}(:[a-fA-F0-9]{2}){5}))"
       ],
-      "type": "有价值信息",
+      "type": "Valuable information",
       "describe": "MAC Address",
       "isImportant": false,
       "isOpen": true,
@@ -1231,8 +1231,8 @@
       "keyword": [
         "\".*Required .{1,18} parameter.*\""
       ],
-      "type": "有价值信息",
-      "describe": "缺少参数",
+      "type": "Valuable information",
+      "describe": "Missing parameter",
       "isImportant": false,
       "isOpen": true,
       "accuracy": "high"
@@ -1244,8 +1244,8 @@
         "Content-Type: application/json",
         "is not present"
       ],
-      "type": "有价值信息",
-      "describe": "缺少参数",
+      "type": "Valuable information",
+      "describe": "Missing parameter",
       "isImportant": false,
       "isOpen": true,
       "accuracy": "high"
@@ -1255,10 +1255,10 @@
       "location": "body",
       "keyword": [
         "Content-Type: application/json",
-        "缺少参数"
+        "Missing parameter"
       ],
-      "type": "有价值信息",
-      "describe": "缺少参数",
+      "type": "Valuable information",
+      "describe": "Missing parameter",
       "isImportant": false,
       "isOpen": true,
       "accuracy": "high"
@@ -1269,7 +1269,7 @@
       "keyword": [
         "/graphql"
       ],
-      "type": "敏感路径",
+      "type": "Sensitive Path",
       "describe": "GraphQL",
       "isImportant": true,
       "isOpen": true,
@@ -1281,7 +1281,7 @@
       "keyword": [
         "/graphiql"
       ],
-      "type": "敏感路径",
+      "type": "Sensitive Path",
       "describe": "GraphQL",
       "isImportant": true,
       "isOpen": true,
@@ -1293,7 +1293,7 @@
       "keyword": [
         "/swagger-resources"
       ],
-      "type": "敏感路径",
+      "type": "Sensitive Path",
       "describe": "OpenAPI-Swagger",
       "isImportant": true,
       "isOpen": true,
@@ -1305,7 +1305,7 @@
       "keyword": [
         "/swagger/"
       ],
-      "type": "敏感路径",
+      "type": "Sensitive Path",
       "describe": "OpenAPI-Swagger",
       "isImportant": true,
       "isOpen": true,
@@ -1317,7 +1317,7 @@
       "keyword": [
         "/mappings"
       ],
-      "type": "敏感路径",
+      "type": "Sensitive Path",
       "describe": "SpringbootActuator",
       "isImportant": true,
       "isOpen": true,
@@ -1329,7 +1329,7 @@
       "keyword": [
         "/actuator"
       ],
-      "type": "敏感路径",
+      "type": "Sensitive Path",
       "describe": "SpringbootActuator",
       "isImportant": true,
       "isOpen": true,
@@ -1341,7 +1341,7 @@
       "keyword": [
         "/graphiql"
       ],
-      "type": "敏感路径",
+      "type": "Sensitive Path",
       "describe": "GraphQL API",
       "isImportant": true,
       "isOpen": true,
@@ -1382,7 +1382,7 @@
         "ico",
         "gif"
       ],
-      "type": "白名单URL后缀",
+      "type": "Whitelist URL suffix",
       "isImportant": false,
       "isOpen": true,
       "accuracy": "high"
@@ -1422,7 +1422,7 @@
         "+",
         "|"
       ],
-      "type": "白名单路径",
+      "type": "Whitelist path",
       "isImportant": false,
       "isOpen": true,
       "accuracy": "high"
@@ -1495,7 +1495,7 @@
         ".rubiconproject.",
         ".sddan.",
         ".sfx.",
-        ".smartadserver.",
+        ".smartad server.",
         ".smilewanted.",
         ".taboola.",
         ".tingyun.",
@@ -1504,7 +1504,7 @@
         ".zemanta."
     ],
 
-    "type": "白名单域名",
+    "type": "Whitelist domain name",
       "isImportant": false,
       "isOpen": true,
       "accuracy": "high"
